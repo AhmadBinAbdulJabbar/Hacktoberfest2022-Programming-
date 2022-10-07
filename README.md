@@ -6,6 +6,8 @@
 2) You can modify or add any new features in this code also.
 3) You can report any bugs also and can improve that.
 
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+
 #### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
 ## Fork this repository
