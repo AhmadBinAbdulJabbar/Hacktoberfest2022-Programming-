@@ -6,6 +6,13 @@
 2) You can modify or add any new features in this code also.
 3) You can report any bugs also and can improve that.
 
+#### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
+
+## Fork this repository
+
+Fork this repository by clicking on the fork button on the top of this page.
+This will create a copy of this repository in your account.
+
 
 ## Clone the repository
 
